@@ -1,3 +1,7 @@
+### start the api:
+`docker compose up`
+### stop the api
+`docker compose down`
 
 <p align="center">
   
